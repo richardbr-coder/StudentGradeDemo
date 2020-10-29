@@ -1,0 +1,6 @@
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\Programming Exercises\StudentGradeDemo\StudentGradeDemo\bin\Debug\StudentGradeDemo.exe.config
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\Programming Exercises\StudentGradeDemo\StudentGradeDemo\bin\Debug\StudentGradeDemo.exe
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\Programming Exercises\StudentGradeDemo\StudentGradeDemo\bin\Debug\StudentGradeDemo.pdb
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\Programming Exercises\StudentGradeDemo\StudentGradeDemo\obj\Debug\StudentGradeDemo.csprojAssemblyReference.cache
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\Programming Exercises\StudentGradeDemo\StudentGradeDemo\obj\Debug\StudentGradeDemo.exe
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\Programming Exercises\StudentGradeDemo\StudentGradeDemo\obj\Debug\StudentGradeDemo.pdb
